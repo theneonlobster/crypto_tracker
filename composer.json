@@ -1,0 +1,13 @@
+{
+  "name": "drupal/crypto_tracker",
+  "type": "drupal-module",
+  "description": "Display live cryptocurrency values in blocks and pages.",
+  "keywords": ["Drupal"],
+  "license": "GPL-2.0+",
+  "homepage": "https://github.com/theneonlobster/eedplatek",
+  "support": {
+    "issues": "https://github.com/theneonlobster/eedplatek/issues",
+    "source": "https://github.com/theneonlobster/eedplatek"
+  },
+  "require": { }
+}
